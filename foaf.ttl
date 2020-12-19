@@ -1,33 +1,21 @@
-<rdf:RDF
-  xmlns:foaf="http://xmlns.com/foaf/0.1/"
-  xmlns:admin="http://webns.net/mvcb/"
-  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
->
-  <foaf:PersonalProfileDocument rdf:about="https://www.dropbox.com/s/gpvaop2y7igw3a6/foaf.ttl?dl=1">
-    <foaf:primaryTopic>
-      <foaf:Person rdf:about="https://www.dropbox.com/s/gpvaop2y7igw3a6/foaf.ttl?dl=1#me">
-        <foaf:givenname>Risto</foaf:givenname>
-        <foaf:schoolHomepage rdf:resource="https://www.finki.ukim.mk/en"/>
-        <foaf:name>Risto Trajanov</foaf:name>
-        <foaf:homepage rdf:resource="https://www.linkedin.com/in/risto-trajanov/"/>
-        <foaf:knows>
-          <foaf:Person rdf:nodeID="N18ed3d443a9e4b2a808ada471a9db8bf">
-            <rdfs:seeAlso rdf:resource="https://raw.githubusercontent.com/angela-kralevska/COVID19_MK_project/master/foaf.ttl#me"/>
-            <foaf:mbox_sha1sum>38193af0b7960dd1e1cf0457bde8d10f67c26450</foaf:mbox_sha1sum>
-            <foaf:name>Angela Kralevksa</foaf:name>
-          </foaf:Person>
-        </foaf:knows>
-        <foaf:family_name>Trajanov</foaf:family_name>
-        <foaf:workInfoHomepage rdf:resource="https://jobs.netcetera.com.mk/details.html?pid=2745"/>
-        <foaf:title>Mr</foaf:title>
-        <foaf:phone rdf:resource="https://www.dropbox.com/s/gpvaop2y7igw3a6/tel:071323250"/>
-        <foaf:workplaceHomepage rdf:resource="https://www.netcetera.com/home.html"/>
-        <foaf:mbox_sha1sum>a23a8e8886b5b009cdb4a6fb9491deedc16dc0cb</foaf:mbox_sha1sum>
-      </foaf:Person>
-    </foaf:primaryTopic>
-    <admin:generatorAgent rdf:resource="http://www.ldodds.com/foaf/foaf-a-matic"/>
-    <foaf:maker rdf:resource="https://www.dropbox.com/s/gpvaop2y7igw3a6/foaf.ttl?dl=1#me"/>
-    <admin:errorReportsTo rdf:resource="mailto:leigh@ldodds.com"/>
-  </foaf:PersonalProfileDocument>
-</rdf:RDF>
+<https://www.dropbox.com/s/gpvaop2y7igw3a6/foaf.ttl?dl=1#me> <http://xmlns.com/foaf/0.1/givenname> "Risto" .
+<https://www.dropbox.com/s/gpvaop2y7igw3a6/foaf.ttl?dl=1#me> <http://xmlns.com/foaf/0.1/knows> _:N351d9ecda28141278d77bd861dcb6f6f .
+<https://www.dropbox.com/s/gpvaop2y7igw3a6/foaf.ttl?dl=1#me> <http://xmlns.com/foaf/0.1/family_name> "Trajanov" .
+<https://www.dropbox.com/s/gpvaop2y7igw3a6/foaf.ttl?dl=1#me> <http://xmlns.com/foaf/0.1/name> "Risto Trajanov" .
+_:N351d9ecda28141278d77bd861dcb6f6f <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://raw.githubusercontent.com/angela-kralevska/COVID19_MK_project/master/foaf.ttl#me> .
+<https://www.dropbox.com/s/gpvaop2y7igw3a6/foaf.ttl?dl=1#me> <http://xmlns.com/foaf/0.1/workplaceHomepage> <https://www.netcetera.com/home.html> .
+<https://www.dropbox.com/s/gpvaop2y7igw3a6/foaf.ttl?dl=1> <http://xmlns.com/foaf/0.1/maker> <https://www.dropbox.com/s/gpvaop2y7igw3a6/foaf.ttl?dl=1#me> .
+<https://www.dropbox.com/s/gpvaop2y7igw3a6/foaf.ttl?dl=1#me> <http://xmlns.com/foaf/0.1/homepage> <https://www.linkedin.com/in/risto-trajanov/> .
+<https://www.dropbox.com/s/gpvaop2y7igw3a6/foaf.ttl?dl=1#me> <http://xmlns.com/foaf/0.1/phone> <https://www.dropbox.com/s/gpvaop2y7igw3a6/tel:071323250> .
+<https://www.dropbox.com/s/gpvaop2y7igw3a6/foaf.ttl?dl=1> <http://webns.net/mvcb/errorReportsTo> <mailto:leigh@ldodds.com> .
+<https://www.dropbox.com/s/gpvaop2y7igw3a6/foaf.ttl?dl=1> <http://xmlns.com/foaf/0.1/primaryTopic> <https://www.dropbox.com/s/gpvaop2y7igw3a6/foaf.ttl?dl=1#me> .
+<https://www.dropbox.com/s/gpvaop2y7igw3a6/foaf.ttl?dl=1#me> <http://xmlns.com/foaf/0.1/schoolHomepage> <https://www.finki.ukim.mk/en> .
+<https://www.dropbox.com/s/gpvaop2y7igw3a6/foaf.ttl?dl=1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/PersonalProfileDocument> .
+_:N351d9ecda28141278d77bd861dcb6f6f <http://xmlns.com/foaf/0.1/name> "Angela Kralevksa" .
+_:N351d9ecda28141278d77bd861dcb6f6f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:N351d9ecda28141278d77bd861dcb6f6f <http://xmlns.com/foaf/0.1/mbox_sha1sum> "38193af0b7960dd1e1cf0457bde8d10f67c26450" .
+<https://www.dropbox.com/s/gpvaop2y7igw3a6/foaf.ttl?dl=1#me> <http://xmlns.com/foaf/0.1/title> "Mr" .
+<https://www.dropbox.com/s/gpvaop2y7igw3a6/foaf.ttl?dl=1#me> <http://xmlns.com/foaf/0.1/workInfoHomepage> <https://jobs.netcetera.com.mk/details.html?pid=2745> .
+<https://www.dropbox.com/s/gpvaop2y7igw3a6/foaf.ttl?dl=1#me> <http://xmlns.com/foaf/0.1/mbox_sha1sum> "a23a8e8886b5b009cdb4a6fb9491deedc16dc0cb" .
+<https://www.dropbox.com/s/gpvaop2y7igw3a6/foaf.ttl?dl=1> <http://webns.net/mvcb/generatorAgent> <http://www.ldodds.com/foaf/foaf-a-matic> .
+<https://www.dropbox.com/s/gpvaop2y7igw3a6/foaf.ttl?dl=1#me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
