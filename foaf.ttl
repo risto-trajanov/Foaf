@@ -1,21 +1,26 @@
-<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl> <http://webns.net/mvcb/errorReportsTo> <mailto:leigh@ldodds.com> .
-<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/name> "Risto Trajanov" .
-_:Nafebf83a58a84700bcb60443a6434f3a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl> <http://xmlns.com/foaf/0.1/maker> <https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> .
-<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl> <http://xmlns.com/foaf/0.1/primaryTopic> <https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> .
-<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
-_:Nafebf83a58a84700bcb60443a6434f3a <http://xmlns.com/foaf/0.1/mbox_sha1sum> "38193af0b7960dd1e1cf0457bde8d10f67c26450" .
-<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/workInfoHomepage> <https://jobs.netcetera.com.mk/details.html?pid=2745> .
-<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/title> "Mr" .
-_:Nafebf83a58a84700bcb60443a6434f3a <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://raw.githubusercontent.com/angela-kralevska/COVID19_MK_project/master/foaf.ttl> .
-<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl> <http://webns.net/mvcb/generatorAgent> <http://www.ldodds.com/foaf/foaf-a-matic> .
-<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/PersonalProfileDocument> .
-<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/schoolHomepage> <https://www.finki.ukim.mk/en> .
-<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/knows> _:Nafebf83a58a84700bcb60443a6434f3a .
-<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/family_name> "Trajanov" .
-<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/workplaceHomepage> <https://www.netcetera.com/home.html> .
-_:Nafebf83a58a84700bcb60443a6434f3a <http://xmlns.com/foaf/0.1/name> "Angela Kralevksa" .
-<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/homepage> <https://www.linkedin.com/in/risto-trajanov/> .
-<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/phone> <https://raw.githubusercontent.com/risto-trajanov/Foaf/main/tel:071323250> .
-<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/givenname> "Risto" .
 <https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/mbox_sha1sum> "a23a8e8886b5b009cdb4a6fb9491deedc16dc0cb" .
+<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/knows> _:Nc23986f5c0ec4038afe68452e4a6665c .
+<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/PersonalProfileDocument> .
+_:Nc23986f5c0ec4038afe68452e4a6665c <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://raw.githubusercontent.com/ivankrstev7/WBS_FOAF/master/foaf.ttl> .
+_:Na3291525859f4889b31b61ea1a2c1c7f <http://xmlns.com/foaf/0.1/name> "Angela Kralevksa" .
+<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/workplaceHomepage> <https://www.netcetera.com/home.html> .
+_:Na3291525859f4889b31b61ea1a2c1c7f <http://xmlns.com/foaf/0.1/mbox_sha1sum> "38193af0b7960dd1e1cf0457bde8d10f67c26450" .
+<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/title> "Mr" .
+_:Na3291525859f4889b31b61ea1a2c1c7f <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://raw.githubusercontent.com/angela-kralevska/COVID19_MK_project/master/foaf.ttl> .
+<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl> <http://webns.net/mvcb/generatorAgent> <http://www.ldodds.com/foaf/foaf-a-matic> .
+<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/family_name> "Trajanov" .
+<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/phone> <https://raw.githubusercontent.com/risto-trajanov/Foaf/main/tel:071323250> .
+<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/workInfoHomepage> <https://jobs.netcetera.com.mk/details.html?pid=2745> .
+<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/name> "Risto Trajanov" .
+<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl> <http://webns.net/mvcb/errorReportsTo> <mailto:leigh@ldodds.com> .
+_:Nc23986f5c0ec4038afe68452e4a6665c <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl> <http://xmlns.com/foaf/0.1/maker> <https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> .
+<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/knows> _:Na3291525859f4889b31b61ea1a2c1c7f .
+<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl> <http://xmlns.com/foaf/0.1/primaryTopic> <https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> .
+<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/schoolHomepage> <https://www.finki.ukim.mk/en> .
+<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/givenname> "Risto" .
+_:Nc23986f5c0ec4038afe68452e4a6665c <http://xmlns.com/foaf/0.1/name> "Ivan Krstev" .
+<https://raw.githubusercontent.com/risto-trajanov/Foaf/main/foaf.ttl#me> <http://xmlns.com/foaf/0.1/homepage> <https://www.linkedin.com/in/risto-trajanov/> .
+_:Na3291525859f4889b31b61ea1a2c1c7f <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:Nc23986f5c0ec4038afe68452e4a6665c <http://xmlns.com/foaf/0.1/mbox_sha1sum> "860795116ec79fb0a83209c18889728de5b8579f" .
